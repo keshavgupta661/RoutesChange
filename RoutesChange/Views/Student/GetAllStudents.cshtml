@@ -1,0 +1,34 @@
+﻿@model IEnumerable<RoutesChange.Models.Student>
+
+@{
+    ViewBag.Title = "GetAllStudents";
+}
+
+<h2>GetAllStudents</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Class)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Class)
+        </td>
+    </tr>
+}
+
+</table>

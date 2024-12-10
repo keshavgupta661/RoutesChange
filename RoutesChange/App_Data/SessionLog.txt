@@ -1,0 +1,89 @@
+﻿
+Request started at 12/8/2024 4:48:31 PM. Request URL: https://localhost:44300/Home/Index
+----------------------------------------
+New session started at 12/8/2024 4:48:31 PM. Session ID: p35ylgkwxzqojawzw5upp3hs
+----------------------------------------
+Request ended at 12/8/2024 4:48:40 PM. Request URL: https://localhost:44300/Home/Index
+----------------------------------------
+Request started at 12/8/2024 4:53:31 PM. Request URL: https://localhost:44300/Home/Index
+----------------------------------------
+Request ended at 12/8/2024 4:53:39 PM. Request URL: https://localhost:44300/Home/Index
+----------------------------------------
+Request started at 12/8/2024 5:24:20 PM. Request URL: https://localhost:44300/Home/Index
+----------------------------------------
+New session started at 12/8/2024 5:24:20 PM. Session ID: p35ylgkwxzqojawzw5upp3hs
+----------------------------------------
+Request ended at 12/8/2024 5:24:25 PM. Request URL: https://localhost:44300/Home/Index
+----------------------------------------
+Request started at 12/8/2024 5:24:45 PM. Request URL: https://localhost:44300/Home/Index
+----------------------------------------
+Request ended at 12/8/2024 5:24:46 PM. Request URL: https://localhost:44300/Home/Index
+----------------------------------------
+Request started at 12/8/2024 11:09:14 PM. Request URL: https://localhost:44300/
+----------------------------------------
+New session started at 12/8/2024 11:09:15 PM. Session ID: p35ylgkwxzqojawzw5upp3hs
+----------------------------------------
+Request ended at 12/8/2024 11:09:23 PM. Request URL: https://localhost:44300/
+----------------------------------------
+Request started at 12/8/2024 11:09:35 PM. Request URL: https://localhost:44300/
+----------------------------------------
+Request ended at 12/8/2024 11:09:37 PM. Request URL: https://localhost:44300/
+----------------------------------------
+Request started at 12/8/2024 11:14:25 PM. Request URL: https://localhost:44300/
+----------------------------------------
+New session started at 12/8/2024 11:14:25 PM. Session ID: p35ylgkwxzqojawzw5upp3hs
+----------------------------------------
+Request ended at 12/8/2024 11:14:28 PM. Request URL: https://localhost:44300/
+----------------------------------------
+Request started at 12/8/2024 11:14:44 PM. Request URL: https://localhost:44300/
+----------------------------------------
+Request ended at 12/8/2024 11:14:44 PM. Request URL: https://localhost:44300/
+----------------------------------------
+Request started at 12/8/2024 11:15:57 PM. Request URL: https://localhost:44300/
+----------------------------------------
+New session started at 12/8/2024 11:15:57 PM. Session ID: p35ylgkwxzqojawzw5upp3hs
+----------------------------------------
+Request ended at 12/8/2024 11:15:59 PM. Request URL: https://localhost:44300/
+----------------------------------------
+Request started at 12/8/2024 11:16:06 PM. Request URL: https://localhost:44300/
+----------------------------------------
+Request ended at 12/8/2024 11:16:06 PM. Request URL: https://localhost:44300/
+----------------------------------------
+Request started at 12/8/2024 11:16:12 PM. Request URL: https://localhost:44300/about-us
+----------------------------------------
+Request ended at 12/8/2024 11:16:12 PM. Request URL: https://localhost:44300/about-us
+----------------------------------------
+Request started at 12/8/2024 11:17:32 PM. Request URL: https://localhost:44300/
+----------------------------------------
+New session started at 12/8/2024 11:17:32 PM. Session ID: p35ylgkwxzqojawzw5upp3hs
+----------------------------------------
+Request ended at 12/8/2024 11:17:35 PM. Request URL: https://localhost:44300/
+----------------------------------------
+Request started at 12/8/2024 11:17:43 PM. Request URL: https://localhost:44300/about-us
+----------------------------------------
+Request ended at 12/8/2024 11:17:43 PM. Request URL: https://localhost:44300/about-us
+----------------------------------------
+Request started at 12/9/2024 10:44:28 AM. Request URL: https://localhost:44300/
+----------------------------------------
+New session started at 12/9/2024 10:44:29 AM. Session ID: md21gtybr3xijsif1wvvijdt
+----------------------------------------
+Request ended at 12/9/2024 10:44:32 AM. Request URL: https://localhost:44300/
+----------------------------------------
+Request started at 12/9/2024 10:44:44 AM. Request URL: https://localhost:44300/about-us
+----------------------------------------
+Request ended at 12/9/2024 10:44:44 AM. Request URL: https://localhost:44300/about-us
+----------------------------------------
+Request started at 12/9/2024 12:06:22 PM. Request URL: https://localhost:44300/
+----------------------------------------
+New session started at 12/9/2024 12:06:22 PM. Session ID: md21gtybr3xijsif1wvvijdt
+----------------------------------------
+Request ended at 12/9/2024 12:06:24 PM. Request URL: https://localhost:44300/
+----------------------------------------
+Request started at 12/9/2024 12:06:37 PM. Request URL: https://localhost:44300/about-us
+----------------------------------------
+Request ended at 12/9/2024 12:06:37 PM. Request URL: https://localhost:44300/about-us
+----------------------------------------
+Request started at 12/10/2024 11:05:31 AM. Request URL: https://localhost:44300/
+----------------------------------------
+New session started at 12/10/2024 11:05:31 AM. Session ID: zlj04xnxldnkcsulxoyvfgnu
+----------------------------------------
